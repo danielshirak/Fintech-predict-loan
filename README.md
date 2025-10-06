@@ -24,5 +24,5 @@ The analysis follows a standard data science pipeline focused on statistical inf
 ## Future Work
 Future analyses could explore each feature separately to better understand its individual effect on interest rates and improve model accuracy.  
 
-## 🧩 Technologies Used
+##  Technologies Used
 Python | Pandas | Matplotlib | Seaborn | Statsmodels | Scipy | Jupyter Notebook  
